@@ -1,0 +1,19 @@
+{
+  "backup_path": "C:/Users/Plaho/Desktop",
+  "auto_backup":
+  {
+    "active": false,
+    "begin_date": "2021-06-19T00:00:00",
+    "frequency": "Каждый день",
+    "activity hours": ["07:00", "23:00"]
+  },
+  "uninterrupted backup": false,
+  "logs_path": "C:/Users/Plaho/Desktop",
+  "analyze group": ["Все"],
+  "auto delete":
+  {
+    "active": false,
+    "frequency": 1,
+    "unit": "Дней"
+  }
+}
